@@ -7,8 +7,6 @@ require_once("classes/phpMailer/class.phpmailer.php");
 require_once("classes/phpMailer/class.smtp.php");
 $eml = new PHPMailer();
 
-test
-
 $status = "failed";
 
 $url = 'https://amt.accessdevelopment.com/api/v1/imports.xml';
