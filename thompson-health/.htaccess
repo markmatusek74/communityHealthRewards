@@ -1,0 +1,6 @@
+
+RewriteEngine on
+RewriteCond %{HTTP_HOST} ^communityhealthrewards\.com$ [OR]
+RewriteCond %{HTTP_HOST} ^www\.communityhealthrewards\.com$
+RewriteRule ^/?$ "https\:\/\/communityhealth\.enjoymydeals\.com\/" [R=301,L]
+

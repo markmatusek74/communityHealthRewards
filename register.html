@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>API Register</title>
+    <style type="text/css">
+        input, label { display: block; clear: both; margin: 5px 10px;}
+    </style>
+
+    <script type="text/javascript" src="jquery-1.12.3.min.js"></script>
+</head>
+<body>
+<form name="loginForm" id="loginform" method="POST" action="register.html">
+    <div id="postmsg"></div>
+    <label>Username</label><input type="text" name="username" />
+    <label>Email Address</label>
+    <input type="text" name="email" />
+    <label>First Name</label>
+    <input type="text" name="fname" />
+    <label>Last Name</label>
+    <input type="text" name="lname" />
+    <input type="submit" name="register" id="register" value="Register" />
+</form>
+<script type="text/javascript">
+    $("#register").click(function (event) {
+        event.preventDefault();
+        //   $("#loginform").submit();
+        $.ajax({
+            type: "POST",
+            url: "http://amt-demo.accessdevelopment.com/api/v1/imports",
+            dataType: "json",
+            data: { access_token: "503b3ad347b51547a7c7b819b6d91f412057fa3075c1ccadcdba7b481f100938", record_identifier: "cmng2016", record_type: "MEM_SYN", organization_customer_identifier: "2002214" ,program_customer_identifier: "200352", member_customer_identifier: "mmatusek1138", full_name: "Mark Matusek", email_address: "mark1138@matusek.com"},
+            success: function (data) {
+                var json = $.parseJSON(data); // create an object with the key of the array
+                alert(json.html);
+            },
+            error: function(xhr, status, error) {
+                var err = eval("(" + xhr.responseText + ")");
+                alert(err.Message);
+            }
+        });
+    });
+</script>
+</body>
+</html>
