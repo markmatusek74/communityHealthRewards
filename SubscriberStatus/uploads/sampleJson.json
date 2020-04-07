@@ -1,0 +1,22 @@
+{"import":{
+  "members":[
+    { "organization_customer_identifier":"2002214",
+      "program_customer_identifier":"200590",
+      "first_name":"Mark",
+      "last_name":"Matusek",
+      "email_address":"mar@matusek.com",
+      "member_customer_identifier":"cmngssrp1000",
+      "member_status":"OPEN",
+      "record_identifier":"sr1000"
+    },
+    { "organization_customer_identifier":"2002214",
+      "program_customer_identifier":"200590",
+      "first_name":"Deanna",
+      "last_name":"Matusek",
+      "email_address":"dee@matusek.com",
+      "member_customer_identifier":"cmngssrp1001",
+      "member_status":"OPEN",
+      "record_identifier":"sr1001"
+    }
+  ]
+}}

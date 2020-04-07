@@ -1,0 +1,164 @@
+body {
+    font-family: arial;
+}
+input, label, select {
+    display: block; clear: both; margin: 5px 10px;
+    font-size: 14px;
+}
+input {
+    padding: 5px;
+}
+select {
+    border: 1px solid #ccc;
+    width: 370px;
+    height: 30px;
+    background: #fff;
+}
+#greatDealsHeader .titleBar, .deallist-header .titleBar {
+    background-color: #283991;
+    background-image: url("https://communityhealth.enjoymydeals.com/static/theme/ad_to1/images/streamline/streamline_sprite.png");
+    background-position: 0 -480px;
+    color: #fff;
+    border-radius: 5px;
+    font-size: 28px;
+    font-weight: normal;
+    margin-top: 0px;
+    text-align: left;
+    text-shadow: none !important;
+}
+.deallist-header .titleBar {
+    margin-top: -1px;
+    margin-bottom: 10px;
+}
+.titleBar {
+    margin: 0 0 5px 0;
+    padding: 0 0 0 12px;
+}
+.titleBar {
+    font: normal 24px 'Yanone Kaffeesatz', 'Arial Narrow', arial, sans-serif;
+    text-transform: uppercase;
+}
+.wrapper {
+    padding-top: 20px;
+}
+.signup1 {
+    width: 400px;
+    float: left;
+}
+.signup2 {
+    float: right;
+    box-shadow: 0px 5px 15px #aaaaaa;
+}
+.registerimg {
+    float: right;
+    box-shadow: 0px 5px 15px #aaaaaa;
+}
+.complex-bg-helper {
+    background: #fff;
+    display: block;
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    height: 179px;
+}
+.complex-bg-helper div, #helpLine, #filtersBox a.ico, .ico_large, .list .sr_distance, #locationMap .titleBar, .offerBox .titleBar, #relatedProducts .titleBar, #help h2.titleBar, #loginBox #helpLinks input[type="button"], #loginBox #helpLinks input[type="button"]:hover, .redemptionType {
+    background-color: #283991;
+}
+.complex-bg-helper div {
+    height: 59px;
+    background-image: url("https://communityhealth.enjoymydeals.com/static/theme/ad_to1/images/streamline/streamline_sprite.png");
+    background-position: 0 -213px;
+    background-repeat: repeat-x;
+    position: absolute;
+    top: 120px;
+    left: 0;
+    right: 0;
+}
+.container {
+    width: 1000px;
+    margin: 0 auto;
+    position: relative;
+}
+#programLogo {
+    display: block;
+    height: 120px;
+    width: 300px;
+}
+#programLogo img {
+    margin: -97px 0 0 -13px;
+}
+a img, :link img, :visited img {
+    border: 0;
+    outline: none;
+}
+#helpLine {
+    right: 22px;
+    top: 9px;
+    height: 24px;
+    line-height: 24px;
+    padding: 0 0 0 30px;
+    margin: 0;
+    background-repeat: no-repeat;
+    font-size: 15px;
+    position: absolute;
+    background-color: #fff;
+}
+a, #memberNav li, #helpLine, #cartBox p#cartCount, #refineCats h2, #sideBar .titleBar, .searchControls strong, #searchDescription span.searchDescLabel {
+    color: #283991;
+}
+.welcomeMessage {
+    background-color: #f9f9f9;
+    border: 1px #f9f9f9 solid;
+    font-size: larger;
+    margin-top: 75px;
+    padding: 20px 20px 15px;
+}
+.btn_details, .btn_details:hover, .ui-widget-header, .ui-widget-header {
+    background-color: #283991 !important;
+}
+.btn_details {
+    background-image: url("https://communityhealth.enjoymydeals.com/static/theme/ad_to1/images/streamline/streamline_sprite.png");
+    background-position: 0 -285px;
+    background-repeat: repeat-x;
+    height: 26px;
+    font-size: 14px;
+    border-radius: 5px;
+    border: 0;
+    color: #fff !important;
+    float: left;
+    text-align: center;
+}
+#footer {
+    border-top: 1px #A7A9AC solid;
+    height: 80px;
+    background-image: url("https://communityhealth.enjoymydeals.com/static/theme/ad_to1/images/streamline/streamline_sprite.png");
+    background-position: 0 -542px;
+    background-repeat: repeat-x;
+    position: absolute;
+    margin-top: 600px;
+    left: 0;
+    right: 0;
+}
+#footer .container {
+    height: 80px;
+}
+#footerNav {
+    margin: 15px 0 15px 0;
+    font-size: 12px;
+    color: #888;
+}
+#footerNav {
+    float: right;
+    margin: 5px 0 10px 0;
+}
+.clearfix {
+    display: block;
+}
+ol, ul, li {
+    list-style: none;
+}
+.example {
+    font-size: 12px;
+    color: #aaa;
+}

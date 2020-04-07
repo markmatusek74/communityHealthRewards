@@ -39,7 +39,7 @@ require_once("includes/header.php");
             <div id="greatDealsHeader" class="deallist-header">
 
                 <div class="titleBar">REQUEST YOUR MEMBER ID</div></div>
-            <p>Please enter your email addres and organization name below to receive your individual member ID and a link to register for your account.
+            <p>Please enter your email address and organization name below to receive your individual member ID and a link to register for your account.
             </p>
 
             <form name="loginForm" id="loginForm" method="POST" action="import-member-xml.php">

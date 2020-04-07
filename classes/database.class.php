@@ -11,7 +11,7 @@ class database {
 
     public static function connnectToDB()
     {
-        $mysqli = new mysqli("DB2.ludington.com", "wwwldn_ldndb", "ldn01pass2");
+        $mysqli = new mysqli("host1.ludington.com", "sa_chr", "D916m1138!");
         $mysqli->select_db("wwwCommHealthRewards");
         if($mysqli->errno)
         {

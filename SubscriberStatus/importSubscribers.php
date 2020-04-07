@@ -73,7 +73,7 @@ if (is_dir($baseFolder)){
                 $procFile = $baseFolder . "/".  $file;
                 $arcFile = $archiveFolder . "/" . date('YmdHis_') .$file;
                 $linecount = exec('perl -pe \'s/\r\n|\n|\r/\n/g\' ' . escapeshellarg($procFile) . ' | wc -l');
-                if ($linecount > 1)
+                if (($linecount > 1) && (strpos($file,'_new') !== false))
                 {
                     if ((strpos($file, '5066') !== false) || (strpos($file, '5065') !== false))
                     {

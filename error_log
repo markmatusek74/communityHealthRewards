@@ -1,7 +1,52 @@
-[07-Nov-2017 16:19:21 America/New_York] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
-[21-Dec-2017 16:28:06 America/New_York] PHP Warning:  Module 'gnupg' already loaded in Unknown on line 0
-[21-Dec-2017 16:28:06 America/New_York] PHP Warning:  Module 'gnupg' already loaded in Unknown on line 0
-[17-Jan-2018 13:53:15 America/New_York] PHP Warning:  Module 'gnupg' already loaded in Unknown on line 0
-[30-Jan-2018 10:57:23 America/New_York] PHP Warning:  Module 'gnupg' already loaded in Unknown on line 0
-[02-Feb-2018 16:55:33 America/New_York] PHP Warning:  Module 'gnupg' already loaded in Unknown on line 0
-[07-Feb-2018 21:58:55 America/New_York] PHP Warning:  Module 'gnupg' already loaded in Unknown on line 0
+[26-Jun-2018 17:09:31 America/New_York] PHP Warning:  Module 'gnupg' already loaded in Unknown on line 0
+[26-Jun-2018 17:09:31 America/New_York] PHP Warning:  require_once(includes/header.php): failed to open stream: No such file or directory in /home/chreward/public_html/members/register.php on line 2
+[26-Jun-2018 17:09:31 America/New_York] PHP Fatal error:  require_once(): Failed opening required 'includes/header.php' (include_path='.:/opt/cpanel/ea-php54/root/usr/share/pear') in /home/chreward/public_html/members/register.php on line 2
+[26-Jun-2018 17:19:28 America/New_York] PHP Warning:  Module 'gnupg' already loaded in Unknown on line 0
+[26-Jun-2018 17:19:28 America/New_York] PHP Warning:  require_once(includes/header.php): failed to open stream: No such file or directory in /home/chreward/public_html/register.php on line 2
+[26-Jun-2018 17:19:28 America/New_York] PHP Fatal error:  require_once(): Failed opening required 'includes/header.php' (include_path='.:/opt/cpanel/ea-php54/root/usr/share/pear') in /home/chreward/public_html/register.php on line 2
+[26-Jun-2018 17:19:34 America/New_York] PHP Warning:  Module 'gnupg' already loaded in Unknown on line 0
+[26-Jun-2018 17:19:34 America/New_York] PHP Warning:  require_once(includes/header.php): failed to open stream: No such file or directory in /home/chreward/public_html/register.php on line 2
+[26-Jun-2018 17:19:34 America/New_York] PHP Fatal error:  require_once(): Failed opening required 'includes/header.php' (include_path='.:/opt/cpanel/ea-php54/root/usr/share/pear') in /home/chreward/public_html/register.php on line 2
+[26-Jun-2018 17:19:51 America/New_York] PHP Warning:  Module 'gnupg' already loaded in Unknown on line 0
+[26-Jun-2018 17:19:51 America/New_York] PHP Warning:  require_once(includes/header.php): failed to open stream: No such file or directory in /home/chreward/public_html/register.php on line 2
+[26-Jun-2018 17:19:51 America/New_York] PHP Fatal error:  require_once(): Failed opening required 'includes/header.php' (include_path='.:/opt/cpanel/ea-php54/root/usr/share/pear') in /home/chreward/public_html/register.php on line 2
+[26-Jun-2018 17:22:23 America/New_York] PHP Warning:  Module 'gnupg' already loaded in Unknown on line 0
+[26-Jun-2018 17:22:23 America/New_York] PHP Warning:  require_once(includes/header.php): failed to open stream: No such file or directory in /home/chreward/public_html/register.php on line 2
+[26-Jun-2018 17:22:23 America/New_York] PHP Fatal error:  require_once(): Failed opening required 'includes/header.php' (include_path='.:/opt/cpanel/ea-php54/root/usr/share/pear') in /home/chreward/public_html/register.php on line 2
+[26-Jun-2018 17:22:37 America/New_York] PHP Warning:  Module 'gnupg' already loaded in Unknown on line 0
+[26-Jun-2018 17:22:37 America/New_York] PHP Warning:  require_once(includes/header.php): failed to open stream: No such file or directory in /home/chreward/public_html/register.php on line 2
+[26-Jun-2018 17:22:37 America/New_York] PHP Fatal error:  require_once(): Failed opening required 'includes/header.php' (include_path='.:/opt/cpanel/ea-php54/root/usr/share/pear') in /home/chreward/public_html/register.php on line 2
+[26-Jun-2018 22:54:52 America/New_York] PHP Warning:  Module 'gnupg' already loaded in Unknown on line 0
+[26-Jun-2018 22:54:52 America/New_York] PHP Warning:  require_once(includes/header.php): failed to open stream: No such file or directory in /home/chreward/public_html/register.php on line 2
+[26-Jun-2018 22:54:52 America/New_York] PHP Fatal error:  require_once(): Failed opening required 'includes/header.php' (include_path='.:/opt/cpanel/ea-php54/root/usr/share/pear') in /home/chreward/public_html/register.php on line 2
+[26-Jun-2018 23:04:49 America/New_York] PHP Warning:  Module 'gnupg' already loaded in Unknown on line 0
+[26-Jun-2018 23:05:04 America/New_York] PHP Warning:  Module 'gnupg' already loaded in Unknown on line 0
+[26-Jun-2018 23:05:10 America/New_York] PHP Warning:  Module 'gnupg' already loaded in Unknown on line 0
+[26-Jun-2018 23:05:25 America/New_York] PHP Warning:  Module 'gnupg' already loaded in Unknown on line 0
+[26-Jun-2018 23:06:16 America/New_York] PHP Warning:  Module 'gnupg' already loaded in Unknown on line 0
+[26-Jun-2018 23:06:35 America/New_York] PHP Warning:  Module 'gnupg' already loaded in Unknown on line 0
+[26-Jun-2018 23:06:35 America/New_York] PHP Warning:  require_once(classes/users.class.php): failed to open stream: No such file or directory in /home/chreward/public_html/import-member-xml.php on line 3
+[26-Jun-2018 23:06:35 America/New_York] PHP Fatal error:  require_once(): Failed opening required 'classes/users.class.php' (include_path='.:/opt/cpanel/ea-php54/root/usr/share/pear') in /home/chreward/public_html/import-member-xml.php on line 3
+[26-Jun-2018 23:07:33 America/New_York] PHP Warning:  Module 'gnupg' already loaded in Unknown on line 0
+[26-Jun-2018 23:07:45 America/New_York] PHP Warning:  Module 'gnupg' already loaded in Unknown on line 0
+[27-Jun-2018 08:41:08 America/New_York] PHP Warning:  Module 'gnupg' already loaded in Unknown on line 0
+[27-Jun-2018 08:41:30 America/New_York] PHP Warning:  Module 'gnupg' already loaded in Unknown on line 0
+[27-Jun-2018 09:31:32 America/New_York] PHP Warning:  Module 'gnupg' already loaded in Unknown on line 0
+[27-Jun-2018 20:56:32 America/New_York] PHP Warning:  Module 'gnupg' already loaded in Unknown on line 0
+[27-Jun-2018 20:56:47 America/New_York] PHP Warning:  Module 'gnupg' already loaded in Unknown on line 0
+[27-Jun-2018 20:57:04 America/New_York] PHP Warning:  Module 'gnupg' already loaded in Unknown on line 0
+[06-Jul-2018 13:41:16 America/New_York] PHP Warning:  Module 'gnupg' already loaded in Unknown on line 0
+[06-Jul-2018 14:47:27 America/New_York] PHP Warning:  Module 'gnupg' already loaded in Unknown on line 0
+[06-Jul-2018 14:47:27 America/New_York] PHP Warning:  Module 'gnupg' already loaded in Unknown on line 0
+[06-Jul-2018 14:53:10 America/New_York] PHP Warning:  Module 'gnupg' already loaded in Unknown on line 0
+[06-Jul-2018 16:23:51 America/New_York] PHP Warning:  Module 'gnupg' already loaded in Unknown on line 0
+[06-Jul-2018 16:23:52 America/New_York] PHP Warning:  Module 'gnupg' already loaded in Unknown on line 0
+[06-Jul-2018 16:23:53 America/New_York] PHP Warning:  Module 'gnupg' already loaded in Unknown on line 0
+[06-Jul-2018 16:23:53 America/New_York] PHP Warning:  Module 'gnupg' already loaded in Unknown on line 0
+[09-Jul-2018 14:43:07 America/New_York] PHP Warning:  Module 'gnupg' already loaded in Unknown on line 0
+[26-Oct-2018 11:02:54 America/New_York] PHP Warning:  Module 'gnupg' already loaded in Unknown on line 0
+[24-Jan-2019 01:23:08 America/New_York] PHP Warning:  Module 'gnupg' already loaded in Unknown on line 0
+[24-Jan-2019 01:23:41 America/New_York] PHP Warning:  Module 'gnupg' already loaded in Unknown on line 0
+[01-Feb-2019 04:29:19 America/New_York] PHP Warning:  Module 'gnupg' already loaded in Unknown on line 0
+[16-Feb-2019 18:36:38 America/New_York] PHP Warning:  Module 'gnupg' already loaded in Unknown on line 0
+[18-Mar-2019 16:55:18 America/New_York] PHP Warning:  Module 'gnupg' already loaded in Unknown on line 0
